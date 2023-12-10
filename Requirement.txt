@@ -1,4 +1,4 @@
 pymongo
 uvicorn
 pydantic
-fastapi
+fastapi    
