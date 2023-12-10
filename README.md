@@ -2,11 +2,11 @@
 
 Group Members:
 <br>
-Khang Tran            E-mail: ktran1405@csu.fullerton.edu
+Pranav Pansheriya            E-mail: Pranav08@csu.fullerton.edu
 <br>
-Jeet Ghodasara        E-mail: jng25899@gmail.com 
+Him Patel        E-mail: Himpatel5244@csu.fullerton.edu
 <br>
-Andy Lasso            E-mail: andylasso25@csu.fullerton.edu
+
 
 #Step - 1 -> Install the requirements.txt to add all the modules required.
 <br>
