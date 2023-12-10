@@ -6,7 +6,6 @@ Pranav Pansheriya            E-mail: Pranav08@csu.fullerton.edu
 <br>
 Him Patel        E-mail: Himpatel5244@csu.fullerton.edu
 <br>
-<br>
 Pallavi Thorat        E-mail: pallavithorat_771@csu.fullerton.edu
 <br>
 
