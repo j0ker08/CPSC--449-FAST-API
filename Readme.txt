@@ -1,6 +1,7 @@
 Him Patel
 Pranav Pansheriya
 Pallavi Thorat
+Anshika Khandelwal
 
 Step - 1 -> Install the requirements.txt to add all the modules required.
 Step - 2 -> Run the file using python -m uvicorn main:app --reload
